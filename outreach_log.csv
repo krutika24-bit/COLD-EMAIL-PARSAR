@@ -1,0 +1,11 @@
+timestamp,recipient_email,company,role,subject,status,error_message
+2026-06-01T16:15:24.464681+00:00,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role at Acme AI,sent,
+2026-06-01T16:15:24.465695+00:00,hiring@nexustech.io,Nexus Tech,Junior Software Engineer,Quick note on the Junior Software Engineer role at Nexus Tech,skipped,
+2026-06-01T16:15:24.465695+00:00,alex@startupco.dev,StartupCo,Founding Engineer Intern,Quick note on the Founding Engineer Intern role at StartupCo,skipped,
+2026-06-02T09:54:18.582071+00:00,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role at Acme AI,sent,
+2026-06-02T09:54:34.559135+00:00,hiring@nexustech.io,Nexus Tech,Junior Software Engineer,Quick note on the Junior Software Engineer role at Nexus Tech,skipped,
+2026-06-02T09:54:41.082960+00:00,alex@startupco.dev,StartupCo,Founding Engineer Intern,Quick note on the Founding Engineer Intern role at StartupCo,sent,
+2026-06-02T09:54:59.896769+00:00,recruiter@cloudbase.app,CloudBase,DevOps Intern,Quick note on the DevOps Intern role at CloudBase,sent,
+2026-06-02T09:55:07.192737+00:00,jordan@datapulse.ai,DataPulse AI,Machine Learning Intern,Quick note on the Machine Learning Intern role at DataPulse AI,sent,
+2026-06-02T10:03:31.890812+00:00,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role at Acme AI,sent,
+2026-06-02T10:03:54.478267+00:00,priya@example.com,Acme AI,Backend Engineering Intern,Quick note on the Backend Engineering Intern role at Acme AI,sent,
