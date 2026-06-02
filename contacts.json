@@ -1,0 +1,48 @@
+[
+  {
+    "recipient_name": "Priya Sharma",
+    "recipient_email": "priya@example.com",
+    "company": "Acme AI",
+    "role": "Backend Engineering Intern",
+    "personalization_note": "Company recently launched an AI workflow automation product",
+    "candidate_name": "Your Name",
+    "candidate_background": "Python developer interested in automation and AI agents",
+    "portfolio_url": "https://github.com/yourname"
+  },
+  {
+    "recipient_email": "hiring@nexustech.io",
+    "company": "Nexus Tech",
+    "role": "Junior Software Engineer",
+    "candidate_name": "Your Name",
+    "candidate_background": "building small agents and API integrations in Python",
+    "portfolio_url": "https://github.com/yourname"
+  },
+  {
+    "recipient_name": "Alex Kim",
+    "recipient_email": "alex@startupco.dev",
+    "company": "StartupCo",
+    "role": "Founding Engineer Intern",
+    "personalization_note": "Your post about shipping MVPs quickly resonated with me",
+    "candidate_name": "Your Name",
+    "candidate_background": "full-stack prototypes and developer tooling"
+  },
+  {
+    "recipient_email": "recruiter@cloudbase.app",
+    "company": "CloudBase",
+    "role": "DevOps Intern",
+    "candidate_name": "Your Name",
+    "candidate_background": "CI/CD pipelines and infrastructure-as-code with Python",
+    "job_url": "https://example.com/jobs/devops-intern"
+  },
+  {
+    "recipient_name": "Jordan Lee",
+    "recipient_email": "jordan@datapulse.ai",
+    "company": "DataPulse AI",
+    "role": "Machine Learning Intern",
+    "personalization_note": "DataPulse's recent open-source embedding toolkit",
+    "candidate_name": "Your Name",
+    "candidate_background": "ML workflows and data pipelines in Python",
+    "portfolio_url": "https://github.com/yourname",
+    "linkedin_url": "https://linkedin.com/in/yourname"
+  }
+]
